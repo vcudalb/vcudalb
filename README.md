@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vasile Cudalb</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3>I enjoy .NET stack and its ecosystem.</h3>
 <h4> 
   Currently working at <a href="https://seavus.com/">Seavus</a> <br>
