@@ -5,8 +5,8 @@
   Previously at <a href="https://softwaremind.com/"> Software Mind</a>,  <a href="https://stefanini.com/en"> Stefanini</a> and  <a href="https://www.endava.com/en/"> Endava.</a> </h4>
 <hr>
 <h4 align="left">Stats:</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcudalb&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="vcudalb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcudalb&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="vcudalb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcudalb&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="vcudalb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcudalb&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="vcudalb" /></p>
 
 <hr>
 <h4 align="left">Languages and Tools:</h4>
