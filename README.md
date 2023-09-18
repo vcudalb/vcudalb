@@ -1,8 +1,11 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3>I enjoy .NET stack and it's ecosystem.</h3>
+<!---
 <h4> 
   Currently working at <a href="https://seavus.com/">Seavus.</a> <br>
-  Previously at <a href="https://softwaremind.com/"> Software Mind</a>,  <a href="https://stefanini.com/en"> Stefanini</a> and  <a href="https://www.endava.com/en/"> Endava.</a> </h4>
+  Previously at <a href="https://softwaremind.com/"> Software Mind</a>,  <a href="https://stefanini.com/en"> Stefanini</a> and  <a href="https://www.endava.com/en/"> Endava.</a> 
+</h4>
+-->
 <hr>
 <h4 align="left">Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcudalb&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="vcudalb" /></p>
