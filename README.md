@@ -2,7 +2,7 @@
 <h3>I enjoy .NET stack and it's ecosystem.</h3>
 <!---
 <h4> 
-  Currently working at <a href="https://seavus.com/">Seavus.</a> <br>
+  Currently working at <a href="https://avenga.com/">Avenga </a> <br>
   Previously at <a href="https://softwaremind.com/"> Software Mind</a>,  <a href="https://stefanini.com/en"> Stefanini</a> and  <a href="https://www.endava.com/en/"> Endava.</a> 
 </h4>
 -->
